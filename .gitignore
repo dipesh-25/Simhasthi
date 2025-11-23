@@ -1,0 +1,44 @@
+# Android/Gradle build files
+.gradle/
+build/
+*/build/
+
+# Local configuration file (SDK path, etc)
+local.properties
+
+# Android Studio/IntelliJ files
+*.iml
+.idea/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/gradle.xml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Signing / keystore
+*.jks
+*.keystore
+
+# Firebase/Google services config (if you keep private)
+google-services.json
+
+# Log files
+*.log
+
+# NDK / external native builds
+.externalNativeBuild/
+obj/
+
+# Captures, navigation editor temp files
+captures/
+.navigation/

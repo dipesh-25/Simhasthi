@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "styles": [
+    { "featureType": "all", "elementType": "all",
+      "stylers": [{ "visibility": "on" }] },
+    { "featureType": "all", "elementType": "geometry",
+      "stylers": [{ "color": "#ffffff" }] },
+    { "featureType": "all", "elementType": "labels.text.fill",
+      "stylers": [{ "color": "#000000" }] },
+    { "featureType": "road", "elementType": "geometry",
+      "stylers": [{ "color": "#e0e0e0" }] },
+    { "featureType": "water", "elementType": "geometry",
+      "stylers": [{ "color": "#89c2ff" }] }
+  ]
+}

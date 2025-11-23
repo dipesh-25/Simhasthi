@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "styles": [
+    { "featureType": "all", "elementType": "all",
+      "stylers": [{ "visibility": "on" }] },
+    { "featureType": "all", "elementType": "geometry",
+      "stylers": [{ "color": "#1c1c1c" }] },
+    { "featureType": "all", "elementType": "labels.text.fill",
+      "stylers": [{ "color": "#ffffff" }] },
+    { "featureType": "all", "elementType": "labels.text.stroke",
+      "stylers": [{ "color": "#000000" }] },
+    { "featureType": "road", "elementType": "geometry",
+      "stylers": [{ "color": "#2b2b2b" }] },
+    { "featureType": "water", "elementType": "geometry",
+      "stylers": [{ "color": "#0a0a0a" }] }
+  ]
+}
