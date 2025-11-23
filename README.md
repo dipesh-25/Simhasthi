@@ -90,7 +90,7 @@ Git installed
 
 Step 1: Clone the Repository
 
-bashgit clone https://github.com/dipesh-25/MahakumbhSafetyApp.git
+bashgit clone https://github.com/dipesh-25/Simhasthi
 
 cd MahakumbhSafetyApp
 
