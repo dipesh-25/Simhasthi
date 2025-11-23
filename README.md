@@ -532,19 +532,6 @@ Email: dipeshkumawat4321@gmail.com
 
 
 
-📞 Support
-
-If you face any issues:
-
-
-
-Check existing GitHub Issues
-
-Create a new Issue with details
-
-Include error logs and screenshots
-
-
 
 ⚠️ Disclaimer
 
